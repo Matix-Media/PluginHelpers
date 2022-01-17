@@ -1,0 +1,4 @@
+net\matixmedia\pluginhelpers\commands\SubCommand.class
+net\matixmedia\pluginhelpers\config\CustomConfig.class
+net\matixmedia\pluginhelpers\commands\CommandHandler.class
+net\matixmedia\pluginhelpers\items\ItemBuilder.class
