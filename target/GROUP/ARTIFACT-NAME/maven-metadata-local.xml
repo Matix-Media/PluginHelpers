@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>GROUP</groupId>
+  <artifactId>ARTIFACT-NAME</artifactId>
+  <versioning>
+    <release>ARTIFACT-VERSION</release>
+    <versions>
+      <version>ARTIFACT-VERSION</version>
+    </versions>
+    <lastUpdated>20220117163746</lastUpdated>
+  </versioning>
+</metadata>
